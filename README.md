@@ -9,7 +9,7 @@
     
 3.  Gradle.properties, в него я добавил, эти две строчки.
 
-`android.useAndroidX=true
-android.enableJetifier=true`
+    `android.useAndroidX=true
+    android.enableJetifier=true`
 
 4. Больше зависемостей см. здесь >> https://dl.google.com/dl/android/maven2/index.html
